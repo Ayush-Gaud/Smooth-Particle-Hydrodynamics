@@ -1,1 +1,2 @@
 # Smooth-Particle-Hydrodynamics
+This project presents the fundamentals and numerical implementation of Smoothed Particle Hydrodynamics (SPH), a mesh-free, Lagrangian method for simulating fluid flows with large deformations and complex free surfaces. The work covers kernel and particle approximations, discretization of the Navier–Stokes equations, time integration schemes, and boundary condition handling using ghost/repulsive particles, with applications to free-surface and highly deforming flow problems.
